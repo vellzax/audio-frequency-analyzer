@@ -1,0 +1,1 @@
+class AudioAnalyzer {} module.exports = AudioAnalyzer;
